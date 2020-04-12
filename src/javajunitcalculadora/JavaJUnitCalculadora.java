@@ -11,6 +11,7 @@ public class JavaJUnitCalculadora
     {
         System.out.printf("Asignar operandos\n");
         System.out.printf("a y b\n");
+        System.out.printf("Hola Nadira");
         num1 = a;
         num2 = b;
     }
