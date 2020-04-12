@@ -10,6 +10,7 @@ public class JavaJUnitCalculadora
     public JavaJUnitCalculadora(int a, int b)
     {
         System.out.printf("Asignar operandos\n");
+        System.out.printf("a y b\n");
         num1 = a;
         num2 = b;
     }
